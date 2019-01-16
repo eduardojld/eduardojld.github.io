@@ -1,0 +1,15 @@
+# Skills
+# Organizational leadership
+- skill: Programming 
+  description: Scala, Java, Go, Javascript, Ruby, PHP. Keeping an eye on Kotlin and Rust, KISS, TDD, Microservices, Design Patterns and Anti-Patterns, Code Reviews 
+
+# Communications strategy
+- skill: Testing
+  description: CasperJs, PhantomJs, Selenium, Newman, different types of testing like Smoke, Stress, Load.
+
+# Digital content development and creation
+- skill: DevOps
+  description: Infrasctructure as Code, Terraform, Consul, Nomad, Vault, AWS services
+
+- skill: Databases
+  description: mySQL, DynamoDB, Aurora, MongoDB, Postgres, VoltDB, Db2/400

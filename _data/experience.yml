@@ -1,0 +1,24 @@
+# Jobs
+# VP of Global Communications
+- company: Full 360 
+  position: Senior Software Developer / Team Lead
+  duration: Jan, 2016 &mdash; Present
+  summary: Actor model-based solutions using Akka and AkkaStreams, Voltdb, and everything AWS, Hashi and Cloud related. Terraform all the things! Golang enthusiast with one eye on Kotlin and Rust. I'll add CI/CD pipeline to every project I work in 
+
+
+# Director of Digital Stratgy
+- company: Prodigious Latin America
+  position: Senior Software Developer
+  duration:  Jul, 2015 &mdash; Feb, 2016
+  summary: Working as backend developer on Integrations using Anypoints Mule ESB, Amazon S3, Amazon SQS, Elastic Search, Mongo DB, Apigee API proxies and developer apps, Chef, Vagrant, Adobe AEM, Salesforce API, Splunk, App Dynamics
+
+- company: has_many :developers
+  position: Senior Software Developer
+  duration: Feb, 2015 &mdash; Dec, 2015
+  summary: Integration for Business Intelligence Models interacting with tons of system and processes including, workflow management, rest and soap services, key/value stores, NoSQL databases, Excel data sheets (yes you read correctly, Excel). Developed a library that uses Breadth-first search or Depth-first search algorithms to find the best routes or alternative routes between 2 nodes (airports) with weighted edges in a graph for one of the largest airlines in the world
+
+# Communications Coordinator
+- company: Ferreteria EPA
+  position: Responsable Tecnico / Analista
+  duration:   May, 2008  &mdash; Mar, 2015
+  summary: Project leader refactoring a web based client fork of compiere in GWT. Small project making a private cloud using google drive API. Support all other areas of the department in any investigation or new development technology suggested, link between all areas and the development department. Investigation leader of new technologies and best practices. 
